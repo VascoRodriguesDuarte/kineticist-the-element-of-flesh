@@ -1,0 +1,7 @@
+2024/08/14-20:28:23.969 506c Recovering log #167
+2024/08/14-20:28:23.973 506c Delete type=0 #167
+2024/08/14-20:28:23.973 506c Delete type=3 #166
+2024/08/14-20:35:17.714 d24 Level-0 table #171: started
+2024/08/14-20:35:17.714 d24 Level-0 table #171: 0 bytes OK
+2024/08/14-20:35:17.715 d24 Delete type=0 #169
+2024/08/14-20:35:17.716 d24 Manual compaction at level-0 from '!items!7Splzu9WGBQsVbEi' @ 72057594037927935 : 1 .. '!items!7Splzu9WGBQsVbEi' @ 0 : 0; will stop at (end)
