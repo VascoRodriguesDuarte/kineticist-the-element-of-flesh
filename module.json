@@ -1,7 +1,7 @@
 {
   "id": "kineticist-the-element-of-flesh",
   "title": "Kineticist The Element of Flesh",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -96,7 +96,7 @@
       }
     ]
   },
-  "url": "???",
-  "manifest": "???",
-  "download": "???"
+  "url": "https://github.com/VascoRodriguesDuarte/kineticist-the-element-of-flesh",
+  "manifest": "https://raw.githubusercontent.com/VascoRodriguesDuarte/kineticist-the-element-of-flesh/master/module.json",
+  "download": "https://github.com/VascoRodriguesDuarte/kineticist-the-element-of-flesh/archive/refs/heads/master.zip"
 }
