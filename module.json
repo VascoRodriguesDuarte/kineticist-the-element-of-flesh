@@ -1,10 +1,10 @@
 {
   "id": "kineticist-the-element-of-flesh",
   "title": "Kineticist The Element of Flesh",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "minimum": "13",
+    "verified": "13"
   },
   "packs": [
     {
@@ -50,6 +50,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+	{
+      "name": "kineticist-flesh-items",
+      "label": "Kineticist (Flesh) - Items",
+      "path": "packs/kineticist-flesh-items",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -60,7 +71,8 @@
             "kineticist-flesh-class-features",
             "kineticist-flesh-effects",
             "kineticist-flesh-feats",
-			"kineticist-flesh-spells"
+			"kineticist-flesh-spells",
+		  	"kineticist-flesh-items"
           ],
       "folders": []
     }
